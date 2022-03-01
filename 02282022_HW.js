@@ -86,7 +86,7 @@ function tipAmount(billAmount, service) {
 }
 justTheTip = (tipAmount(50, "bad"))
 
-    // console.log(justTheTip + billAmount)
+    // console.log(justTheTip + billAmount)  //?AAAAAAHHHHHHH
 
 
 
